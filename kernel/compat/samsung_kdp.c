@@ -1,3 +1,4 @@
+#include <linux/resource.h>
 #include <linux/completion.h>
 #include <linux/cred.h>
 #include <linux/errno.h>
